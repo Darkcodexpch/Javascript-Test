@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.seestock{
+        padding: 7px 10px;
+        font-size: 10px;
+        display: flex;
+        align-items: center;
+}
+.seestock label{
+    margin: 0px 10px;
+}

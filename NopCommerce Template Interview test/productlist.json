@@ -1,0 +1,124 @@
+{
+	"products": [
+		{
+			"id": 11,
+			"name": "Product 1",
+			"category": "clothes",
+			"instock": true,
+			"isFavourite": true,
+			"tags": [
+				"Jeans",
+				"Shirt"
+			],
+			"dateModified": "2021-12-25T11:55:01"
+		},
+		{
+			"id": 12,
+			"name": "Product 2",
+			"category": "clothes",
+			"instock": false,
+			"isFavourite": false,
+			"tags": [
+				"T-Shirt",
+				"Shirt"
+			],
+			"dateModified": "2021-12-24T11:59:35"
+		},
+		{
+			"id": 13,
+			"name": "Product 3",
+			"category": "clothes",
+			"instock": false,
+			"isFavourite": false,
+			"tags": [
+				"Jeans",
+				"Shirt"
+			],
+			"dateModified": "2021-12-24T11:42:28"
+		},
+		{
+			"id": 14,
+			"name": "Product 4",
+			"category": "flowers",
+			"instock": true,
+			"isFavourite": false,
+			"tags": [
+				"Jeans",
+				"Shirt"
+			],
+			"dateModified": "2021-12-24T10:22:28"
+		},
+		{
+			"id": 15,
+			"name": "Product 5",
+			"category": "clothes",
+			"instock": true,
+			"isFavourite": false,
+			"tags": [
+				"Jeans",
+				"Shirt"
+			],
+			"dateModified": "2021-12-23T10:01:58"
+		},
+		{
+			"id": 16,
+			"name": "Product 6",
+			"category": "clothes",
+			"instock": true,
+			"isFavourite": false,
+			"tags": [
+				"Jeans",
+				"Shirt"
+			],
+			"dateModified": "2021-12-23T05:22:28"
+		},
+		{
+			"id": 17,
+			"name": "Product 7",
+			"category": "clothes",
+			"instock": true,
+			"isFavourite": false,
+			"tags": [
+				"Jeans",
+				"Shirt"
+			],
+			"dateModified": "2021-12-20T11:30:12"
+		},
+		{
+			"id": 18,
+			"name": "Product 8",
+			"category": "clothes",
+			"instock": true,
+			"isFavourite": false,
+			"tags": [
+				"Jeans",
+				"Shirt"
+			],
+			"dateModified": "2021-12-21T10:42:28"
+		},
+		{
+			"id": 19,
+			"name": "Product 9",
+			"category": "clothes",
+			"instock": true,
+			"isFavourite": false,
+			"tags": [
+				"Jeans",
+				"Shirt"
+			],
+			"dateModified": "2021-12-18T08:42:28"
+		},
+		{
+			"id": 20,
+			"name": "Product 10",
+			"category": "clothes",
+			"instock": true,
+			"isFavourite": false,
+			"tags": [
+				"Jeans",
+				"Shirt"
+			],
+			"dateModified": "2021-12-15T09:59:28"
+		}
+	]
+}
